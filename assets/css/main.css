@@ -1659,3 +1659,9 @@ input, select, textarea {
 		body.is-preload #footer {
 			opacity: 0;
 		}
+
+		img.animated-gif{
+			width: 120px;
+			height: auto;
+		  }
+		  
